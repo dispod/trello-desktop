@@ -14,7 +14,7 @@
 
 ### Linux
 
-[**Download**](https://github.com/danielchatfield/trello-desktop/releases/latest) and unzip to some location.
+[**Download**](https://github.com/dispod/trello-desktop/releases/latest) and unzip to some location.
 
 To add a shortcut to the app, create a file in `~/.local/share/applications` called `trello.desktop` with the following contents:
 
